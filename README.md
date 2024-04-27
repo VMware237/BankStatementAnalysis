@@ -6,7 +6,7 @@ The Personal Finance Dashboard is a sophisticated tool designed to offer a compr
 ## My Contributions
 
 ### Data Categorization
-- **Action**: Implemented a system to read bank statements from CSV files and used Ollama Llama2 to automatically categorize transactions, enhancing data accuracy and saving time.
+- **Action**: Implemented a system to read bank statements from CSV files and used Ollama Llama2 to automatically categorize transactions, saving time to analyse the expenses.
 - **Outcome**: Achieved an organized dataset where expenses and income were categorized into distinct segments, such as 'Food and Beverages' and 'Entertainment', simplifying the visualization process.
 
 ### Data Integration and Visualization
@@ -15,7 +15,7 @@ The Personal Finance Dashboard is a sophisticated tool designed to offer a compr
 
 ### Interactive Dashboard Development
 - **Action**: Designed and deployed the Personal Finance Dashboard to display categorized financial data in an interactive format.
-- **Outcome**: Provided a holistic view of financial health, showcasing a total income of $328,214 in 2023 and highlighting key spending areas across both years.
+- **Outcome**: Provided a holistic view of financial health, showcasing a total income for 2023 and 2024, highlighting key spending areas across both years.
 
 ## Technical Stack
 - **Data Parsing and Categorization**: Python, Ollama Llama2 LLM
