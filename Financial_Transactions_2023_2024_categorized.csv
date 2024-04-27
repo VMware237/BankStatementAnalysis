@@ -1,0 +1,457 @@
+Date,Name / Description,Expense / Income,Amount ($),Transaction,Category
+2023-01-01,Home Repair,Expense,504.99,Home Repair,Housing and Utilities
+2023-01-02,Pharmacy Medication,Expense,1356.44,Pharmacy Medication,Health and Wellness
+2023-01-03,Pizza Delivery,Expense,1621.8,Pizza Delivery,Food and Beverages
+2023-01-04,Laptop Repair,Expense,867.14,Laptop Repair,Electronics
+2023-01-05,Dividend Income,Income,6148.05,Dividend Income,Finance and Banking
+2023-01-06,Rental Income,Income,6779.19,Rental Income,Finance and Banking
+2023-01-07,Yoga Retreat,Expense,761.17,Yoga Retreat,Travel and Leisure
+2023-01-08,Book Purchase,Expense,197.62,Book Purchase,Books and Media
+2023-01-09,Electronics Store Purchase,Expense,516.0,Electronics Store Purchase,Electronics
+2023-01-10,Bicycle Repair,Expense,1185.91,Bicycle Repair,Transportation
+2023-01-11,Art Exhibition Ticket,Expense,955.57,Art Exhibition Ticket,Entertainment
+2023-01-12,Uber Ride,Expense,978.43,Uber Ride,Transportation
+2023-01-13,City Tour,Expense,919.74,City Tour,Travel and Leisure
+2023-01-14,Massage Session,Expense,1051.56,Massage Session,Health and Wellness
+2023-01-15,Parking Fee,Expense,886.82,Parking Fee,Transportation
+2023-01-16,Festival Ticket,Expense,1706.01,Festival Ticket,Entertainment
+2023-01-17,Electricity Bill,Expense,869.71,Electricity Bill,Housing and Utilities
+2023-01-18,Consulting Fees,Income,6756.93,Consulting Fees,Professional Services
+2023-01-19,Vitamins and Supplements,Expense,1021.14,Vitamins and Supplements,Health and Wellness
+2023-01-20,Software License,Expense,177.32,Software License,Electronics
+2023-01-21,Vitamins and Supplements,Expense,1321.78,Vitamins and Supplements,Health and Wellness
+2023-01-22,Laptop Repair,Expense,417.16,Laptop Repair,Electronics
+2023-01-23,Museum Entry,Expense,1695.31,Museum Entry,Entertainment
+2023-01-24,Hair Salon Visit,Expense,1364.31,Hair Salon Visit,Health and Wellness
+2023-01-25,Financial Advisor Consultation,Expense,360.84,Financial Advisor Consultation,Professional Services
+2023-01-26,Amazon Purchase,Expense,144.37,Amazon Purchase,Clothing and Grooming
+2023-01-27,Plumbing Services,Expense,24.33,Plumbing Services,Housing and Utilities
+2023-01-28,Grocery Shopping,Expense,1784.64,Grocery Shopping,Food and Beverages
+2023-01-29,Public Transit Ticket,Expense,271.26,Public Transit Ticket,Transportation
+2023-01-30,Stock Sale Profit,Income,6368.49,Stock Sale Profit,Finance and Banking
+2023-01-31,Wine Purchase,Expense,1850.7,Wine Purchase,Food and Beverages
+2023-02-01,Music Performance Fee,Income,20175.43,Music Performance Fee,Entertainment
+2023-02-02,Book Purchase,Expense,984.18,Book Purchase,Books and Media
+2023-02-03,Taxi Fare,Expense,941.65,Taxi Fare,Transportation
+2023-02-04,Festival Ticket,Expense,1766.01,Festival Ticket,Entertainment
+2023-02-05,Apple Services,Expense,979.38,Apple Services,Electronics
+2023-02-06,Acupuncture Treatment,Expense,832.06,Acupuncture Treatment,Health and Wellness
+2023-02-07,Car Wash,Expense,352.35,Car Wash,Transportation
+2023-02-08,City Tour,Expense,953.2,City Tour,Travel and Leisure
+2023-02-09,Uber Ride,Expense,1568.38,Uber Ride,Transportation
+2023-02-10,Hotel Booking,Expense,1115.08,Hotel Booking,Travel
+2023-02-11,Home Repair,Expense,323.93,Home Repair,Housing and Utilities
+2023-02-12,Hair Salon Visit,Expense,291.94,Hair Salon Visit,Health and Wellness
+2023-02-13,Garden Supplies,Expense,1300.68,Garden Supplies,Housing and Utilities
+2023-02-14,Yoga Retreat,Expense,1080.75,Yoga Retreat,Travel and Leisure
+2023-02-15,Movie Ticket,Expense,654.74,Movie Ticket,Entertainment
+2023-02-16,Theater Ticket,Expense,298.29,Theater Ticket,Entertainment
+2023-02-17,Photography Session Fee,Income,4564.69,Photography Session Fee,Professional Services
+2023-02-18,Theater Ticket,Expense,263.18,Theater Ticket,Entertainment
+2023-02-19,Museum Entry,Expense,1159.95,Museum Entry,Entertainment
+2023-02-20,Garden Supplies,Expense,189.06,Garden Supplies,Housing and Utilities
+2023-02-21,Laptop Repair,Expense,1821.54,Laptop Repair,Electronics
+2023-02-22,Optometrist Visit,Expense,170.53,Optometrist Visit,Health and Wellness
+2023-02-23,Garden Supplies,Expense,1601.76,Garden Supplies,Housing and Utilities
+2023-02-24,Hair Salon Visit,Expense,1754.88,Hair Salon Visit,Health and Wellness
+2023-02-25,Bicycle Repair,Expense,191.45,Bicycle Repair,Transportation
+2023-02-26,Medical Insurance,Expense,855.48,Medical Insurance,Financial Planning
+2023-02-27,Parking Fee,Expense,949.08,Parking Fee,Transportation
+2023-02-28,Martial Arts Class,Expense,1162.49,Martial Arts Class,Recreation
+2023-03-01,Movie Ticket,Expense,1433.91,Movie Ticket,Entertainment
+2023-03-02,Wedding Gift,Expense,59.0,Wedding Gift,Personal Expenses
+2023-03-03,TK Maxx Amsterdam DA,Expense,1464.14,TK Maxx Amsterdam DA,Clothing and Grooming
+2023-03-04,Book Royalties,Income,8900.78,Book Royalties,Professional Services
+2023-03-05,Grocery Shopping,Expense,24.48,Grocery Shopping,Food and Beverages
+2023-03-06,Cleaning Services,Expense,620.03,Cleaning Services,Housing and Utilities
+2023-03-07,Book Royalties,Income,2722.67,Book Royalties,Professional Services
+2023-03-08,Rental Income,Income,5852.37,Rental Income,Finance and Banking
+2023-03-09,Stock Sale Profit,Income,11061.08,Stock Sale Profit,Finance and Banking
+2023-03-10,Massage Session,Expense,1117.83,Massage Session,Health and Wellness
+2023-03-11,Library Fine,Expense,199.45,Library Fine,Personal Expenses
+2023-03-12,Car Wash,Expense,1245.25,Car Wash,Transportation
+2023-03-13,Apple Services,Expense,1726.73,Apple Services,Electronics
+2023-03-14,Car Wash,Expense,319.48,Car Wash,Transportation
+2023-03-15,Pharmacy Medication,Expense,1984.9,Pharmacy Medication,Health and Wellness
+2023-03-16,Safari Adventure,Expense,174.58,Safari Adventure,Travel
+2023-03-17,Wine Purchase,Expense,193.44,Wine Purchase,Food and Beverages
+2023-03-18,Pet Supplies,Expense,1269.05,Pet Supplies,Personal Expenses
+2023-03-19,Birthday Gift,Expense,1898.85,Birthday Gift,Personal Expenses
+2023-03-20,Mobile Phone Recharge,Expense,1873.81,Mobile Phone Recharge,Electronics
+2023-03-21,Freelancing,Expense,897.52,Freelancing,Professional Services
+2023-03-22,Pet Supplies,Expense,1456.75,Pet Supplies,Personal Expenses
+2023-03-23,Chinese Takeout,Expense,1485.76,Chinese Takeout,Food and Beverages
+2023-03-24,Taxi Fare,Expense,617.44,Taxi Fare,Transportation
+2023-03-25,Library Fine,Expense,243.94,Library Fine,Personal Expenses
+2023-03-26,Hardware Store Purchase,Expense,890.54,Hardware Store Purchase,Housing and Utilities
+2023-03-27,Pet Supplies,Expense,786.59,Pet Supplies,Personal Expenses
+2023-03-28,Gas Bill,Expense,1066.04,Gas Bill,Housing and Utilities
+2023-03-29,Music Album,Expense,1691.49,Music Album,Entertainment
+2023-03-30,Yoga Class Fee,Expense,1074.87,Yoga Class Fee,Recreation
+2023-03-31,Spiritual Retreat,Expense,1362.14,Spiritual Retreat,Travel
+2023-04-01,Stock Sale Profit,Income,9184.03,Stock Sale Profit,Finance and Banking
+2023-04-02,Airline Ticket,Expense,201.46,Airline Ticket,Travel
+2023-04-03,Selling Paintings Revenue,Income,1419.4,Selling Paintings Revenue,Professional Services
+2023-04-04,Wedding Gift,Expense,116.65,Wedding Gift,Personal Expenses
+2023-04-05,Parking Fee,Expense,177.63,Parking Fee,Transportation
+2023-04-06,Restaurant Dining,Expense,478.16,Restaurant Dining,Food and Beverages
+2023-04-07,Museum Entry,Expense,1679.83,Museum Entry,Entertainment
+2023-04-08,Italian Restaurant,Expense,1047.13,Italian Restaurant,Food and Beverages
+2023-04-09,Apple Services,Expense,1028.58,Apple Services,Electronics
+2023-04-10,Taxi Fare,Expense,1301.41,Taxi Fare,Transportation
+2023-04-11,Martial Arts Class,Expense,1091.46,Martial Arts Class,Recreation
+2023-04-12,Consulting Fees,Income,525.09,Consulting Fees,Professional Services
+2023-04-13,Book Royalties,Income,8748.2,Book Royalties,Professional Services
+2023-04-14,Electricity Bill,Expense,1543.32,Electricity Bill,Housing and Utilities
+2023-04-15,Golf Club Fee,Expense,755.57,Golf Club Fee,Sport and Fitness
+2023-04-16,Wine Purchase,Expense,984.59,Wine Purchase,Food and Beverages
+2023-04-17,Dental Checkup,Expense,1963.37,Dental Checkup,Health and Wellness
+2023-04-18,Selling Paintings Revenue,Income,3710.91,Selling Paintings Revenue,Professional Services
+2023-04-19,Grocery Shopping,Expense,751.77,Grocery Shopping,Food and Beverages
+2023-04-20,Book Purchase,Expense,96.09,Book Purchase,Books and Media
+2023-04-21,Wine Purchase,Expense,623.58,Wine Purchase,Food and Beverages
+2023-04-22,Mortgage Payment,Expense,1663.88,Mortgage Payment,Housing
+2023-04-23,Pizza Delivery,Expense,1615.01,Pizza Delivery,Food and Beverages
+2023-04-24,Sushi Restaurant,Expense,1281.85,Sushi Restaurant,Food and Beverages
+2023-04-25,Train Ticket,Expense,739.36,Train Ticket,Transportation
+2023-04-26,Medical Insurance,Expense,628.94,Medical Insurance,Financial Planning
+2023-04-27,City Tour,Expense,1604.66,City Tour,Travel and Leisure
+2023-04-28,Rental Income,Income,1095.33,Rental Income,Finance and Banking
+2023-04-29,TK Maxx Amsterdam DA,Expense,1368.73,TK Maxx Amsterdam DA,Clothing and Grooming
+2023-04-30,Pizza Delivery,Expense,764.55,Pizza Delivery,Food and Beverages
+2023-05-01,Monthly Apartment Rent,Expense,1269.69,Monthly Apartment Rent,Housing
+2023-05-02,Hair Salon Visit,Expense,1854.12,Hair Salon Visit,Health and Wellness
+2023-05-03,Electronics Store Purchase,Expense,1708.61,Electronics Store Purchase,Electronics
+2023-05-04,Mountain Hiking Trip,Expense,997.87,Mountain Hiking Trip,Sport and Fitness
+2023-05-05,Orthodontic Treatment,Expense,858.53,Orthodontic Treatment,Health and Wellness
+2023-05-06,Martial Arts Class,Expense,1646.01,Martial Arts Class,Recreation
+2023-05-07,Chinese Takeout,Expense,1477.76,Chinese Takeout,Food and Beverages
+2023-05-08,Gas Bill,Expense,897.05,Gas Bill,Housing and Utilities
+2023-05-09,Orthodontic Treatment,Expense,1937.96,Orthodontic Treatment,Health and Wellness
+2023-05-10,Wedding Gift,Expense,729.51,Wedding Gift,Personal Expenses
+2023-05-11,Safari Adventure,Expense,798.08,Safari Adventure,Travel
+2023-05-12,Hardware Store Purchase,Expense,1478.67,Hardware Store Purchase,Housing and Utilities
+2023-05-13,Freelancing Payment,Income,18535.97,Freelancing Payment,Professional Services
+2023-05-14,Vitamins and Supplements,Expense,1874.88,Vitamins and Supplements,Health and Wellness
+2023-05-15,Safari Adventure,Expense,518.18,Safari Adventure,Travel
+2023-05-16,Annual Credit Card Fee,Expense,766.61,Annual Credit Card Fee,Financial Services
+2023-05-17,Book Purchase,Expense,1395.8,Book Purchase,Books and Media
+2023-05-18,Bicycle Repair,Expense,1794.65,Bicycle Repair,Transportation
+2023-05-19,Public Transit Ticket,Expense,246.51,Public Transit Ticket,Transportation
+2023-05-20,Selling Paintings Revenue,Income,10017.31,Selling Paintings Revenue,Professional Services
+2023-05-21,Electricity Bill,Expense,460.39,Electricity Bill,Housing and Utilities
+2023-05-22,City Tour,Expense,981.57,City Tour,Travel and Leisure
+2023-05-23,Hotel Booking,Expense,1783.59,Hotel Booking,Travel
+2023-05-24,Monthly Apartment Rent,Expense,719.42,Monthly Apartment Rent,Housing
+2023-05-25,Coffee Machine,Expense,773.55,Coffee Machine,Housing and Utilities
+2023-05-26,Charity Donation,Expense,1833.87,Charity Donation,Personal Giving/Philanthropy
+2023-05-27,Dividend Income,Income,4774.52,Dividend Income,Finance and Banking
+2023-05-28,Museum Entry,Expense,1264.1,Museum Entry,Entertainment
+2023-05-29,Yoga Class Fee,Expense,269.97,Yoga Class Fee,Recreation
+2023-05-30,Library Fine,Expense,751.62,Library Fine,Personal Expenses
+2023-05-31,Train Ticket,Expense,652.19,Train Ticket,Transportation
+2023-06-01,Financial Advisor Consultation,Expense,1361.83,Financial Advisor Consultation,Professional Services
+2023-06-02,Legal Services,Expense,1592.09,Legal Services,Professional Services
+2023-06-03,Garden Supplies,Expense,1010.35,Garden Supplies,Housing and Utilities
+2023-06-04,Parking Fee,Expense,596.0,Parking Fee,Transportation
+2023-06-05,Electronics Store Purchase,Expense,1772.49,Electronics Store Purchase,Electronics
+2023-06-06,Winter Coat Purchase,Expense,706.98,Winter Coat Purchase,Clothing and Grooming
+2023-06-07,Concert Ticket,Expense,1478.09,Concert Ticket,Entertainment
+2023-06-08,Mountain Hiking Trip,Expense,1112.95,Mountain Hiking Trip,Sport and Fitness
+2023-06-09,Freelancing Payment,Income,8527.09,Freelancing Payment,Professional Services
+2023-06-10,Golf Club Fee,Expense,1099.3,Golf Club Fee,Sport and Fitness
+2023-06-11,Selling Paintings,Expense,1041.69,Selling Paintings,Art and Design
+2023-06-12,Selling Paintings Revenue,Income,14681.85,Selling Paintings Revenue,Professional Services
+2023-06-13,Yoga Retreat,Expense,54.12,Yoga Retreat,Travel and Leisure
+2023-06-14,Water Bill,Expense,301.91,Water Bill,Housing and Utilities
+2023-06-15,Acupuncture Treatment,Expense,268.04,Acupuncture Treatment,Health and Wellness
+2023-06-16,Cleaning Services,Expense,1417.3,Cleaning Services,Housing and Utilities
+2023-06-17,Optometrist Visit,Expense,1419.6,Optometrist Visit,Health and Wellness
+2023-06-18,Spa Treatment,Expense,1225.44,Spa Treatment,Personal Giving/Philanthropy
+2023-06-19,Birthday Gift,Expense,1345.45,Birthday Gift,Personal Expenses
+2023-06-20,City Tour,Expense,897.79,City Tour,Travel and Leisure
+2023-06-21,Car Insurance,Expense,1393.67,Car Insurance,Financial Services
+2023-06-22,Plumbing Services,Expense,759.76,Plumbing Services,Housing and Utilities
+2023-06-23,Freelancing Payment,Income,4285.44,Freelancing Payment,Professional Services
+2023-06-24,Orthodontic Treatment,Expense,1920.71,Orthodontic Treatment,Health and Wellness
+2023-06-25,Home Repair,Expense,149.51,Home Repair,Housing and Utilities
+2023-06-26,Bank Loan Repayment,Expense,43.5,Bank Loan Repayment,Financial Services
+2023-06-27,Spiritual Retreat,Expense,1959.25,Spiritual Retreat,Travel
+2023-06-28,Airline Ticket,Expense,301.21,Airline Ticket,Travel
+2023-06-29,Nail Salon Visit,Expense,521.11,Nail Salon Visit,Health and Wellness
+2023-06-30,Uber Ride,Expense,434.98,Uber Ride,Transportation
+2023-07-01,Train Ticket,Expense,1161.93,Train Ticket,Transportation
+2023-07-02,Freelancing,Expense,1951.62,Freelancing,Professional Services
+2023-07-03,Gym Membership,Expense,549.65,Gym Membership,Sport and Fitness
+2023-07-04,Orthodontic Treatment,Expense,1940.3,Orthodontic Treatment,Health and Wellness
+2023-07-05,Consulting Fees,Income,472.21,Consulting Fees,Professional Services
+2023-07-06,Art Exhibition Ticket,Expense,1776.65,Art Exhibition Ticket,Entertainment
+2023-07-07,Freelancing Payment,Income,11990.54,Freelancing Payment,Professional Services
+2023-07-08,Clothes Shopping,Expense,559.16,Clothes Shopping,Personal Giving/Philanthropy
+2023-07-09,Library Fine,Expense,1790.25,Library Fine,Personal Expenses
+2023-07-10,Music Album,Expense,57.91,Music Album,Entertainment
+2023-07-11,Coffee Machine,Expense,1253.15,Coffee Machine,Housing and Utilities
+2023-07-12,Etsy Store Sales,Income,5598.92,Etsy Store Sales,Online Marketplace
+2023-07-13,Uber Ride,Expense,1934.41,Uber Ride,Transportation
+2023-07-14,Theater Ticket,Expense,341.31,Theater Ticket,Entertainment
+2023-07-15,Gas Bill,Expense,1803.46,Gas Bill,Housing and Utilities
+2023-07-16,Vitamins and Supplements,Expense,663.22,Vitamins and Supplements,Health and Wellness
+2023-07-17,Dividend Income,Income,15036.21,Dividend Income,Finance and Banking
+2023-07-18,Grocery Shopping,Expense,1027.34,Grocery Shopping,Food and Beverages
+2023-07-19,Apple Services,Expense,1023.7,Apple Services,Electronics
+2023-07-20,Train Ticket,Expense,776.72,Train Ticket,Transportation
+2023-07-21,Public Transit Ticket,Expense,1062.53,Public Transit Ticket,Transportation
+2023-07-22,Legal Services,Expense,1889.69,Legal Services,Professional Services
+2023-07-23,Music Album,Expense,1786.26,Music Album,Entertainment
+2023-07-24,Movie Ticket,Expense,1355.84,Movie Ticket,Entertainment
+2023-07-25,Uber Ride,Expense,1279.86,Uber Ride,Transportation
+2023-07-26,Coffee Machine,Expense,1098.98,Coffee Machine,Housing and Utilities
+2023-07-27,Beer Purchase,Expense,549.0,Beer Purchase,Food and Beverages
+2023-07-28,Beer Purchase,Expense,300.8,Beer Purchase,Food and Beverages
+2023-07-29,Bank Loan Repayment,Expense,1713.32,Bank Loan Repayment,Financial Services
+2023-07-30,Train Ticket,Expense,1271.94,Train Ticket,Transportation
+2023-07-31,Car Insurance,Expense,602.79,Car Insurance,Financial Services
+2023-08-01,Orthodontic Treatment,Expense,923.14,Orthodontic Treatment,Health and Wellness
+2023-08-02,Book Purchase,Expense,53.93,Book Purchase,Books and Media
+2023-08-03,Netflix Subscription,Expense,1118.34,Netflix Subscription,Entertainment
+2023-08-04,Water Bill,Expense,725.5,Water Bill,Housing and Utilities
+2023-08-05,Car Wash,Expense,1007.91,Car Wash,Transportation
+2023-08-06,Mountain Hiking Trip,Expense,311.49,Mountain Hiking Trip,Sport and Fitness
+2023-08-07,Movie Ticket,Expense,853.89,Movie Ticket,Entertainment
+2023-08-08,Selling Paintings,Expense,1812.81,Selling Paintings,Art and Design
+2023-08-09,Martial Arts Class,Expense,21.98,Martial Arts Class,Recreation
+2023-08-10,Massage Session,Expense,1937.88,Massage Session,Health and Wellness
+2023-08-11,Electricity Bill,Expense,1383.33,Electricity Bill,Housing and Utilities
+2023-08-12,Freelancing Payment,Income,2345.15,Freelancing Payment,Professional Services
+2023-08-13,Consulting Fees,Income,6724.99,Consulting Fees,Professional Services
+2023-08-14,Dividend Income,Income,12461.01,Dividend Income,Finance and Banking
+2023-08-15,Dental Checkup,Expense,1449.67,Dental Checkup,Health and Wellness
+2023-08-16,Wine Purchase,Expense,780.79,Wine Purchase,Food and Beverages
+2023-08-17,Massage Session,Expense,458.03,Massage Session,Health and Wellness
+2023-08-18,Photography Session Fee,Income,10523.44,Photography Session Fee,Professional Services
+2023-08-19,Concert Ticket,Expense,1944.3,Concert Ticket,Entertainment
+2023-08-20,Mortgage Payment,Expense,1668.47,Mortgage Payment,Housing
+2023-08-21,Library Fine,Expense,1830.01,Library Fine,Personal Expenses
+2023-08-22,Sushi Restaurant,Expense,1336.23,Sushi Restaurant,Food and Beverages
+2023-08-23,Hair Salon Visit,Expense,884.13,Hair Salon Visit,Health and Wellness
+2023-08-24,Medical Insurance,Expense,1371.76,Medical Insurance,Financial Planning
+2023-08-25,Restaurant Dining,Expense,1298.95,Restaurant Dining,Food and Beverages
+2023-08-26,Yoga Retreat,Expense,63.05,Yoga Retreat,Travel and Leisure
+2023-08-27,Internet Bill,Expense,1839.47,Internet Bill,Housing and Utilities
+2023-08-28,Pet Supplies,Expense,1087.2,Pet Supplies,Personal Expenses
+2023-08-29,Chiropractic Session,Expense,1982.33,Chiropractic Session,Health and Wellness
+2023-08-30,Book Purchase,Expense,769.29,Book Purchase,Books and Media
+2023-08-31,Wedding Gift,Expense,1614.31,Wedding Gift,Personal Expenses
+2023-09-01,Library Fine,Expense,924.71,Library Fine,Personal Expenses
+2023-09-02,Annual Credit Card Fee,Expense,1654.51,Annual Credit Card Fee,Financial Services
+2023-09-03,Water Bill,Expense,1080.54,Water Bill,Housing and Utilities
+2023-09-04,Etsy Store Sales,Income,9070.78,Etsy Store Sales,Online Marketplace
+2023-09-05,Chiropractic Session,Expense,1760.81,Chiropractic Session,Health and Wellness
+2023-09-06,Laptop Repair,Expense,659.97,Laptop Repair,Electronics
+2023-09-07,Garden Supplies,Expense,811.83,Garden Supplies,Housing and Utilities
+2023-09-08,Freelancing Payment,Income,5577.96,Freelancing Payment,Professional Services
+2023-09-09,Financial Advisor Consultation,Expense,1245.28,Financial Advisor Consultation,Professional Services
+2023-09-10,Birthday Gift,Expense,761.82,Birthday Gift,Personal Expenses
+2023-09-11,Pizza Delivery,Expense,1086.55,Pizza Delivery,Food and Beverages
+2023-09-12,Italian Restaurant,Expense,246.23,Italian Restaurant,Food and Beverages
+2023-09-13,Movie Ticket,Expense,1362.99,Movie Ticket,Entertainment
+2023-09-14,Parking Fee,Expense,577.8,Parking Fee,Transportation
+2023-09-15,Freelancing Payment,Income,463.68,Freelancing Payment,Professional Services
+2023-09-16,Restaurant Dining,Expense,236.62,Restaurant Dining,Food and Beverages
+2023-09-17,Car Insurance,Expense,217.33,Car Insurance,Financial Services
+2023-09-18,Etsy Store Sales,Income,3251.98,Etsy Store Sales,Online Marketplace
+2023-09-19,Electricity Bill,Expense,496.84,Electricity Bill,Housing and Utilities
+2023-09-20,Amazon Purchase,Expense,1127.75,Amazon Purchase,Clothing and Grooming
+2023-09-21,Public Transit Ticket,Expense,1813.18,Public Transit Ticket,Transportation
+2023-09-22,Laptop Repair,Expense,1162.31,Laptop Repair,Electronics
+2023-09-23,Movie Ticket,Expense,1197.88,Movie Ticket,Entertainment
+2023-09-24,Martial Arts Class,Expense,479.9,Martial Arts Class,Recreation
+2023-09-25,Winter Coat Purchase,Expense,1163.87,Winter Coat Purchase,Clothing and Grooming
+2023-09-26,Yoga Retreat,Expense,296.01,Yoga Retreat,Travel and Leisure
+2023-09-27,Concert Ticket,Expense,674.58,Concert Ticket,Entertainment
+2023-09-28,Rental Income,Income,6402.52,Rental Income,Finance and Banking
+2023-09-29,Festival Ticket,Expense,725.8,Festival Ticket,Entertainment
+2023-09-30,Gas Bill,Expense,1822.43,Gas Bill,Housing and Utilities
+2023-10-01,Yoga Class Fee,Expense,1757.59,Yoga Class Fee,Recreation
+2023-10-02,Amazon Purchase,Expense,871.14,Amazon Purchase,Clothing and Grooming
+2023-10-03,Freelancing Payment,Income,2524.95,Freelancing Payment,Professional Services
+2023-10-04,Coffee Machine,Expense,951.96,Coffee Machine,Housing and Utilities
+2023-10-05,Car Insurance,Expense,372.8,Car Insurance,Financial Services
+2023-10-06,Parking Fee,Expense,872.35,Parking Fee,Transportation
+2023-10-07,Financial Advisor Consultation,Expense,379.17,Financial Advisor Consultation,Professional Services
+2023-10-08,Medical Insurance,Expense,1431.84,Medical Insurance,Financial Planning
+2023-10-09,Mountain Hiking Trip,Expense,1048.4,Mountain Hiking Trip,Sport and Fitness
+2023-10-10,Wine Purchase,Expense,644.53,Wine Purchase,Food and Beverages
+2023-10-11,Hair Salon Visit,Expense,11.18,Hair Salon Visit,Health and Wellness
+2023-10-12,Movie Ticket,Expense,1196.62,Movie Ticket,Entertainment
+2023-10-13,Dividend Income,Income,3163.15,Dividend Income,Finance and Banking
+2023-10-14,Clothes Shopping,Expense,15.35,Clothes Shopping,Personal Giving/Philanthropy
+2023-10-15,Book Royalties,Income,4722.16,Book Royalties,Professional Services
+2023-10-16,Water Bill,Expense,1329.41,Water Bill,Housing and Utilities
+2023-10-17,Photography Session Fee,Income,1435.25,Photography Session Fee,Professional Services
+2023-10-18,Library Fine,Expense,404.73,Library Fine,Personal Expenses
+2023-10-19,Rental Income,Income,4506.05,Rental Income,Finance and Banking
+2023-10-20,Yoga Retreat,Expense,621.96,Yoga Retreat,Travel and Leisure
+2023-10-21,Photography Session Fee,Income,1969.61,Photography Session Fee,Professional Services
+2023-10-22,Museum Entry,Expense,1267.96,Museum Entry,Entertainment
+2023-10-23,Art Exhibition Ticket,Expense,1781.85,Art Exhibition Ticket,Entertainment
+2023-10-24,Water Bill,Expense,868.05,Water Bill,Housing and Utilities
+2023-10-25,Clothes Shopping,Expense,1856.8,Clothes Shopping,Personal Giving/Philanthropy
+2023-10-26,Rental Income,Income,2886.45,Rental Income,Finance and Banking
+2023-10-27,Stock Sale Profit,Income,2108.29,Stock Sale Profit,Finance and Banking
+2023-10-28,Coffee Machine,Expense,1187.6,Coffee Machine,Housing and Utilities
+2023-10-29,Electricity Bill,Expense,712.24,Electricity Bill,Housing and Utilities
+2023-10-30,TK Maxx Amsterdam DA,Expense,1315.75,TK Maxx Amsterdam DA,Clothing and Grooming
+2023-10-31,Sushi Restaurant,Expense,1306.36,Sushi Restaurant,Food and Beverages
+2023-11-01,Rental Income,Income,7242.17,Rental Income,Finance and Banking
+2023-11-02,Taxi Fare,Expense,808.52,Taxi Fare,Transportation
+2023-11-03,Consulting Fees,Income,352.08,Consulting Fees,Professional Services
+2023-11-04,Freelancing,Expense,1969.34,Freelancing,Professional Services
+2023-11-05,Airline Ticket,Expense,899.04,Airline Ticket,Travel
+2023-11-06,Chiropractic Session,Expense,1875.58,Chiropractic Session,Health and Wellness
+2023-11-07,Acupuncture Treatment,Expense,1345.72,Acupuncture Treatment,Health and Wellness
+2023-11-08,Dental Checkup,Expense,537.06,Dental Checkup,Health and Wellness
+2023-11-09,Charity Donation,Expense,1130.31,Charity Donation,Personal Giving/Philanthropy
+2023-11-10,Apple Services,Expense,1914.08,Apple Services,Electronics
+2023-11-11,Freelancing,Expense,231.4,Freelancing,Professional Services
+2023-11-12,Car Insurance,Expense,548.1,Car Insurance,Financial Services
+2023-11-13,Yoga Retreat,Expense,168.71,Yoga Retreat,Travel and Leisure
+2023-11-14,Airline Ticket,Expense,1531.71,Airline Ticket,Travel
+2023-11-15,Music Album,Expense,48.27,Music Album,Entertainment
+2023-11-16,Restaurant Dining,Expense,278.82,Restaurant Dining,Food and Beverages
+2023-11-17,Water Bill,Expense,524.95,Water Bill,Housing and Utilities
+2023-11-18,Train Ticket,Expense,1742.81,Train Ticket,Transportation
+2023-11-19,Book Royalties,Income,1598.42,Book Royalties,Professional Services
+2023-11-20,Consulting Fees,Income,3829.08,Consulting Fees,Professional Services
+2023-11-21,Gym Membership,Expense,653.61,Gym Membership,Sport and Fitness
+2023-11-22,Book Royalties,Income,5148.18,Book Royalties,Professional Services
+2023-11-23,Charity Donation,Expense,1873.25,Charity Donation,Personal Giving/Philanthropy
+2023-11-24,Public Transit Ticket,Expense,1881.86,Public Transit Ticket,Transportation
+2023-11-25,Chiropractic Session,Expense,109.75,Chiropractic Session,Health and Wellness
+2023-11-26,Internet Bill,Expense,1194.44,Internet Bill,Housing and Utilities
+2023-11-27,Book Royalties,Income,7857.94,Book Royalties,Professional Services
+2023-11-28,Hardware Store Purchase,Expense,1562.96,Hardware Store Purchase,Housing and Utilities
+2023-11-29,Sushi Restaurant,Expense,427.01,Sushi Restaurant,Food and Beverages
+2023-11-30,Wedding Gift,Expense,1531.16,Wedding Gift,Personal Expenses
+2023-12-01,Amazon Purchase,Expense,382.18,Amazon Purchase,Clothing and Grooming
+2023-12-02,Train Ticket,Expense,1798.03,Train Ticket,Transportation
+2023-12-03,Mortgage Payment,Expense,22.82,Mortgage Payment,Housing
+2023-12-04,Consulting Fees,Income,1034.16,Consulting Fees,Professional Services
+2023-12-05,Spa Treatment,Expense,1240.27,Spa Treatment,Personal Giving/Philanthropy
+2023-12-06,Theater Ticket,Expense,767.97,Theater Ticket,Entertainment
+2023-12-07,Taxi Fare,Expense,197.64,Taxi Fare,Transportation
+2023-12-08,Mountain Hiking Trip,Expense,1969.94,Mountain Hiking Trip,Sport and Fitness
+2023-12-09,Concert Ticket,Expense,1793.68,Concert Ticket,Entertainment
+2023-12-10,Safari Adventure,Expense,545.87,Safari Adventure,Travel
+2023-12-11,Pizza Delivery,Expense,949.01,Pizza Delivery,Food and Beverages
+2023-12-12,Nail Salon Visit,Expense,962.11,Nail Salon Visit,Health and Wellness
+2023-12-13,Plumbing Services,Expense,1019.24,Plumbing Services,Housing and Utilities
+2023-12-14,Yoga Class Fee,Expense,1934.68,Yoga Class Fee,Recreation
+2023-12-15,Taxi Fare,Expense,204.42,Taxi Fare,Transportation
+2023-12-16,Rental Income,Income,470.1,Rental Income,Finance and Banking
+2023-12-17,Fitness App Subscription,Expense,969.99,,
+2023-12-18,Car Wash,Expense,919.23,Car Wash,Transportation
+2023-12-19,Medical Insurance,Expense,474.35,Medical Insurance,Financial Planning
+2023-12-20,Etsy Store Sales,Income,684.46,Etsy Store Sales,Online Marketplace
+2023-12-21,Software License,Expense,252.07,Software License,Electronics
+2023-12-22,Laptop Repair,Expense,1714.23,Laptop Repair,Electronics
+2023-12-23,Music Album,Expense,802.34,Music Album,Entertainment
+2023-12-24,Optometrist Visit,Expense,765.89,Optometrist Visit,Health and Wellness
+2023-12-25,Selling Paintings,Expense,48.84,Selling Paintings,Art and Design
+2023-12-26,Ski Pass,Expense,752.63,,
+2023-12-27,Consulting Fees,Income,7405.9,Consulting Fees,Professional Services
+2023-12-28,Etsy Store Sales,Income,7001.65,Etsy Store Sales,Online Marketplace
+2023-12-29,Home Repair,Expense,1828.41,Home Repair,Housing and Utilities
+2023-12-30,Dividend Income,Income,7519.48,Dividend Income,Finance and Banking
+2023-12-31,Coffee Machine,Expense,651.54,Coffee Machine,Housing and Utilities
+2024-01-01,Monthly Apartment Rent,Expense,635.86,Monthly Apartment Rent,Housing
+2024-01-02,Rental Income,Income,10804.8,Rental Income,Finance and Banking
+2024-01-03,Skin Care Products,Expense,1552.73,,
+2024-01-04,Gas Bill,Expense,565.9,Gas Bill,Housing and Utilities
+2024-01-05,Medical Insurance,Expense,1429.28,Medical Insurance,Financial Planning
+2024-01-06,Spa Treatment,Expense,1125.35,Spa Treatment,Personal Giving/Philanthropy
+2024-01-07,Ski Pass,Expense,802.32,,
+2024-01-08,Music Performance Fee,Income,6894.92,Music Performance Fee,Entertainment
+2024-01-09,Hardware Store Purchase,Expense,175.04,Hardware Store Purchase,Housing and Utilities
+2024-01-10,Clothes Shopping,Expense,1333.03,Clothes Shopping,Personal Giving/Philanthropy
+2024-01-11,Mortgage Payment,Expense,64.12,Mortgage Payment,Housing
+2024-01-12,Home Repair,Expense,1779.13,Home Repair,Housing and Utilities
+2024-01-13,Orthodontic Treatment,Expense,1365.83,Orthodontic Treatment,Health and Wellness
+2024-01-14,Birthday Gift,Expense,1783.17,Birthday Gift,Personal Expenses
+2024-01-15,Safari Adventure,Expense,7.41,Safari Adventure,Travel
+2024-01-16,Photography Session Fee,Income,12147.93,Photography Session Fee,Professional Services
+2024-01-17,Yoga Retreat,Expense,1916.82,Yoga Retreat,Travel and Leisure
+2024-01-18,Electronics Store Purchase,Expense,1593.66,Electronics Store Purchase,Electronics
+2024-01-19,Starbucks Coffee,Expense,1984.19,,
+2024-01-20,Museum Entry,Expense,713.67,Museum Entry,Entertainment
+2024-01-21,Netflix Subscription,Expense,1697.44,Netflix Subscription,Entertainment
+2024-01-22,Bicycle Repair,Expense,1542.5,Bicycle Repair,Transportation
+2024-01-23,Chinese Takeout,Expense,1442.45,Chinese Takeout,Food and Beverages
+2024-01-24,Hair Salon Visit,Expense,1268.66,Hair Salon Visit,Health and Wellness
+2024-01-25,Netflix Subscription,Expense,618.22,Netflix Subscription,Entertainment
+2024-01-26,Legal Services,Expense,1076.87,Legal Services,Professional Services
+2024-01-27,Netflix Subscription,Expense,552.78,Netflix Subscription,Entertainment
+2024-01-28,Birthday Gift,Expense,22.34,Birthday Gift,Personal Expenses
+2024-01-29,Bicycle Repair,Expense,54.76,Bicycle Repair,Transportation
+2024-01-30,Acupuncture Treatment,Expense,292.85,Acupuncture Treatment,Health and Wellness
+2024-01-31,Art Exhibition Ticket,Expense,1029.95,Art Exhibition Ticket,Entertainment
+2024-02-01,Dental Checkup,Expense,449.2,Dental Checkup,Health and Wellness
+2024-02-02,TK Maxx Amsterdam DA,Expense,742.13,TK Maxx Amsterdam DA,Clothing and Grooming
+2024-02-03,Wedding Gift,Expense,114.94,Wedding Gift,Personal Expenses
+2024-02-04,Music Album,Expense,1822.84,Music Album,Entertainment
+2024-02-05,Yoga Retreat,Expense,1770.48,Yoga Retreat,Travel and Leisure
+2024-02-06,Freelancing,Expense,1795.07,Freelancing,Professional Services
+2024-02-07,Spiritual Retreat,Expense,667.72,Spiritual Retreat,Travel
+2024-02-08,Mountain Hiking Trip,Expense,1427.29,Mountain Hiking Trip,Sport and Fitness
+2024-02-09,Music Performance Fee,Income,7382.97,Music Performance Fee,Entertainment
+2024-02-10,Optometrist Visit,Expense,606.88,Optometrist Visit,Health and Wellness
+2024-02-11,Selling Paintings Revenue,Income,1253.58,Selling Paintings Revenue,Professional Services
+2024-02-12,Bicycle Repair,Expense,846.58,Bicycle Repair,Transportation
+2024-02-13,Winter Coat Purchase,Expense,779.7,Winter Coat Purchase,Clothing and Grooming
+2024-02-14,Etsy Store Sales,Income,2800.57,Etsy Store Sales,Online Marketplace
+2024-02-15,Car Wash,Expense,703.66,Car Wash,Transportation
+2024-02-16,Mortgage Payment,Expense,195.76,Mortgage Payment,Housing
+2024-02-17,Martial Arts Class,Expense,1742.85,Martial Arts Class,Recreation
+2024-02-18,Plumbing Services,Expense,1336.85,Plumbing Services,Housing and Utilities
+2024-02-19,Bicycle Repair,Expense,389.47,Bicycle Repair,Transportation
+2024-02-20,Medical Insurance,Expense,1836.59,Medical Insurance,Financial Planning
+2024-02-21,Safari Adventure,Expense,1161.46,Safari Adventure,Travel
+2024-02-22,Orthodontic Treatment,Expense,914.52,Orthodontic Treatment,Health and Wellness
+2024-02-23,Art Exhibition Ticket,Expense,1286.49,Art Exhibition Ticket,Entertainment
+2024-02-24,Art Exhibition Ticket,Expense,511.78,Art Exhibition Ticket,Entertainment
+2024-02-25,Netflix Subscription,Expense,1104.4,Netflix Subscription,Entertainment
+2024-02-26,Sushi Restaurant,Expense,268.15,Sushi Restaurant,Food and Beverages
+2024-02-27,Etsy Store Sales,Income,3490.31,Etsy Store Sales,Online Marketplace
+2024-02-28,Book Royalties,Income,8880.59,Book Royalties,Professional Services
+2024-02-29,Train Ticket,Expense,199.5,Train Ticket,Transportation
+2024-03-01,Nail Salon Visit,Expense,1704.45,Nail Salon Visit,Health and Wellness
+2024-03-02,Internet Bill,Expense,794.11,Internet Bill,Housing and Utilities
+2024-03-03,Book Royalties,Income,4025.76,Book Royalties,Professional Services
+2024-03-04,Bank Loan Repayment,Expense,1172.94,Bank Loan Repayment,Financial Services
+2024-03-05,Bank Loan Repayment,Expense,1494.94,Bank Loan Repayment,Financial Services
+2024-03-06,Concert Ticket,Expense,1219.93,Concert Ticket,Entertainment
+2024-03-07,Public Transit Ticket,Expense,1160.13,Public Transit Ticket,Transportation
+2024-03-08,Concert Ticket,Expense,344.35,Concert Ticket,Entertainment
+2024-03-09,Movie Ticket,Expense,1374.29,Movie Ticket,Entertainment
+2024-03-10,Book Royalties,Income,16734.82,Book Royalties,Professional Services
+2024-03-11,Pharmacy Medication,Expense,1219.14,Pharmacy Medication,Health and Wellness
+2024-03-12,Rental Income,Income,5654.34,Rental Income,Finance and Banking
+2024-03-13,Grocery Shopping,Expense,1606.37,Grocery Shopping,Food and Beverages
+2024-03-14,Birthday Gift,Expense,1673.55,Birthday Gift,Personal Expenses
+2024-03-15,Rental Income,Income,7139.27,Rental Income,Finance and Banking
+2024-03-16,Mortgage Payment,Expense,834.14,Mortgage Payment,Housing
+2024-03-17,Monthly Apartment Rent,Expense,1873.55,Monthly Apartment Rent,Housing
+2024-03-18,Safari Adventure,Expense,1445.76,Safari Adventure,Travel
+2024-03-19,Etsy Store Sales,Income,605.08,Etsy Store Sales,Online Marketplace
+2024-03-20,Cleaning Services,Expense,854.76,Cleaning Services,Housing and Utilities
+2024-03-21,Hardware Store Purchase,Expense,192.32,Hardware Store Purchase,Housing and Utilities
+2024-03-22,Book Purchase,Expense,1957.2,Book Purchase,Books and Media
+2024-03-23,Airline Ticket,Expense,1152.55,Airline Ticket,Travel
+2024-03-24,Cleaning Services,Expense,1289.14,Cleaning Services,Housing and Utilities
+2024-03-25,Car Wash,Expense,732.1,Car Wash,Transportation
+2024-03-26,Starbucks Coffee,Expense,1337.09,,
+2024-03-27,Water Bill,Expense,1145.83,Water Bill,Housing and Utilities
+2024-03-28,Yoga Retreat,Expense,1550.49,Yoga Retreat,Travel and Leisure
+2024-03-29,Massage Session,Expense,1800.7,Massage Session,Health and Wellness
+2024-03-30,Medical Insurance,Expense,811.59,Medical Insurance,Financial Planning
+2024-03-31,Cleaning Services,Expense,1791.21,Cleaning Services,Housing and Utilities
