@@ -1,4 +1,4 @@
-# BankStatementAnalysis
+# Bank Statement Analysis
 
 ## Project Description
 The Personal Finance Dashboard is a sophisticated tool designed to offer a comprehensive analysis of personal bank transactions over multiple years. The goal of the project was to utilize the advanced language processing capabilities of Ollama Llama2 LLMs to categorize transactions from bank statements, which were then visualized using Plotly to provide a clear, interactive financial overview for the years 2023 and 2024.
