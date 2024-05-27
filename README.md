@@ -3,6 +3,10 @@
 ## Project Description
 The Personal Finance Dashboard is a sophisticated tool designed to offer a comprehensive analysis of personal bank transactions over multiple years. The goal of the project was to utilize the advanced language processing capabilities of Ollama Llama2 LLMs to categorize transactions from bank statements, which were then visualized using Plotly to provide a clear, interactive financial overview for the years 2023 and 2024.
 
+## Technical Stack
+- **Data Parsing and Categorization**: Python, Ollama Llama2 LLM
+- **Data Visualization**: Plotly
+
 ## My Contributions
 
 ### Data Categorization
@@ -16,10 +20,6 @@ The Personal Finance Dashboard is a sophisticated tool designed to offer a compr
 ### Interactive Dashboard Development
 - **Action**: Designed and deployed the Personal Finance Dashboard to display categorized financial data in an interactive format.
 - **Outcome**: Provided a holistic view of financial health, showcasing a total income for 2023 and 2024, highlighting key spending areas across both years.
-
-## Technical Stack
-- **Data Parsing and Categorization**: Python, Ollama Llama2 LLM
-- **Data Visualization**: Plotly
 
 ## Dashboards
 
